@@ -566,7 +566,7 @@ SELECT
 FROM fine_summary;
 
 SELECT * FROM total_fine;
-	```
+```
 
 
 ## Reports
