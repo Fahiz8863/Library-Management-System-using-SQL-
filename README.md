@@ -7,7 +7,6 @@ This project demonstrates the implementation of a Library Management System usin
 ![Library_project](https://github.com/Fahiz8863/Library-Management-System-using-SQL-/blob/main/Library%20Management%20System.png)
 ![Library](https://github.com/Fahiz8863/Library-Management-System-using-SQL-/blob/main/library.jpeg)
 
-https://github.com/Fahiz8863/Library-Management-System-using-SQL-/blob/main/library.jpeg
 ## Objectives
 
 1. **Set up the Library Management System Database**: Create and populate the database with tables for branches, employees, members, books, issued status, and return status.
